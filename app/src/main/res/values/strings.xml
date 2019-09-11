@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite_Project</string>
+    <string name="userName">User Name</string>
+    <string name="pwd">Password</string>
+    <string name="select">Select All</string>
+    <string name="add">Add</string>
+    <string name="sign">Sign In</string>
+    <string name="del">Delete</string>
+    <string name="update">Update</string>
+    <string name="name">Name</string>
+</resources>
